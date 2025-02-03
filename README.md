@@ -9,7 +9,7 @@ This software is designed to automate the monitoring and updating of vendor assi
 2.  **Data Retrieval**: Extracts the "parent case ID" for the unit and communicates with a third-party API using the SOAP protocol to retrieve the corresponding "child case ID" for the newly assigned vendor.
 3.  **Data Processing and Updating**: Processes the XML data received from the third-party API and updates the SQL database accordingly.
 
-This program ensures that an internal corporate system remains up-to-date with the latest vendor assignments, streamlining the data management process and enhancing operational efficiency.
+This program ensures a corporate database remains up-to-date with the latest vendor assignments, streamlining the data management process and enhancing operational efficiency.
 
 ## Technologies Used
 
